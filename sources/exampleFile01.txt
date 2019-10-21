@@ -1,0 +1,10 @@
+Typed in UTF8 mode: 
+Dette er ֳ¦ֳ¸ֳ¥ pֳ¥ fri fod. + * . ' * 
+
+
+Typed in ISO8859-15: 
+רזורוווזררזוזוזררזוזוזררזוזזרזורזרזוזרזרו ^' + ~ ,.-
+
+Typed in Windows 1252: 
+זרו ,.-?+ *' 
+

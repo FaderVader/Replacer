@@ -1,0 +1,11 @@
+Encoding : ISO 8859-1 (Codepage 28591)
+
+Denne tekst indeholder ֶ״ֵ זרו 
+plus +   
+pipe |
+ques ?
+at   @
+caret ^
+tilde  ~
+star *
+single quote ' 
